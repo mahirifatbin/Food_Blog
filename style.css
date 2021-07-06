@@ -42,7 +42,25 @@ p{
     margin: auto;
     border-radius: 7px;    
 }
-#text_align{
+.text_align{
     padding-right: 20%;
-    font-size: 20px;
+    font-size: 18px;
+    padding-bottom: 10%;
+}
+.background_me{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+.three_items{
+padding-top: 0px;
+    display: flex;
+    
+}
+.three_items img{
+    width: 70%;
+}
+.para_formation{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
 }
