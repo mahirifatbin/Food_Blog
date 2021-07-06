@@ -58,8 +58,9 @@ padding-top: 50px;
     
 }
 .three_items img{
-    width: 70%;
+    width: 80%;
     padding-left: 30px;
+    padding-top: 10px;
 }
 .para_formation{
     text-align: center;
@@ -68,4 +69,16 @@ padding-top: 50px;
 }
 .heading{
     padding-left: 30px;
+    padding-right: 30px;
+}
+.border
+{
+    border: white;
+    /* padding: 0px; */
+    border-radius: 20px;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    box-shadow: 2px 2px 10px 10px rgba(175, 90, 255, 0.747);
 }
