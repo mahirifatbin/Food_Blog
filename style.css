@@ -1,5 +1,5 @@
 .top_bar{
-    background-color: rgba(252, 168, 252, 0.336);
+    background-color: rgba(250, 142, 109, 0.336);
     text-align: right;
     padding: 15px;
     font-weight: 700;  
@@ -46,7 +46,7 @@ p{
     padding-right: 20%;
     font-size: 18px;
     padding-bottom: 10%;
-    padding-left: 30px;
+    padding-left: 5px;
 }
 .background_me{
     background-image: url(images/shapes/Frame\ 59.jpg);
@@ -80,5 +80,11 @@ padding-top: 50px;
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 5%;
-    box-shadow: 2px 2px 10px 10px rgba(175, 90, 255, 0.747);
+    box-shadow: 2px 2px 10px 10px rgba(243, 156, 229, 0.747);
+}
+.background_network{
+    background-color: black;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
 }
